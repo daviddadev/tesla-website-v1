@@ -17,13 +17,16 @@ h1 {
 }
 
 .title-bar {
+	margin-top: 110px;
 	font-size: 60px;
 	color: #fff;
+	text-transform: uppercase;
 }
 
 .subtitle-bar {
 	color: #fff;
 	padding-bottom: 20px;
+	text-transform: uppercase;
 }
 
 h2 {
