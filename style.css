@@ -48,7 +48,10 @@ a {
 }
 
 .main {
-	background-image: url('https://goo.gl/1baSWX');
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d4/Tesla_Model_3_trimmed_retouched.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
 	height: 550px;
 	padding-top: 55px
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
